@@ -1,0 +1,101 @@
+TicketID,DateOpened,WeekNum,DateClosed,Category,Priority,Technician,ResolutionHrs
+1001,2025-06-23,26,2025-06-24,Hardware,Medium,Steve,31
+1002,2025-07-27,31,2025-07-27,Network,High,Anna,18
+1003,2025-06-27,26,2025-06-28,Network,High,Mike,30
+1004,2025-06-04,23,2025-06-05,Account Access,Medium,Anna,26
+1005,2025-06-16,25,2025-06-17,Network,Low,Anna,27
+1006,2025-06-08,24,2025-06-09,AV Equipment,High,Sarah,26
+1007,2025-07-27,31,2025-07-28,Hardware,High,Mike,27
+1008,2025-06-15,25,2025-06-15,Network,High,Mike,23
+1009,2025-07-28,31,2025-07-28,Hardware,High,Steve,19
+1010,2025-06-28,26,2025-06-29,Account Access,Low,Steve,31
+1011,2025-06-30,27,2025-07-01,Hardware,High,Anna,47
+1012,2025-06-27,26,2025-06-28,Hardware,High,Mike,41
+1013,2025-07-05,27,2025-07-05,Hardware,High,Mike,21
+1014,2025-07-28,31,2025-07-28,Account Access,Medium,Anna,5
+1015,2025-06-11,24,2025-06-12,AV Equipment,Low,Mike,27
+1016,2025-06-14,24,2025-06-15,Hardware,Low,Anna,31
+1017,2025-06-19,25,2025-06-20,Software,Low,Anna,41
+1018,2025-07-30,31,2025-07-30,Network,Medium,Sarah,11
+1019,2025-07-11,28,2025-07-12,Hardware,Medium,Mike,26
+1020,2025-07-07,28,2025-07-07,Network,Medium,Steve,2
+1021,2025-06-14,24,2025-06-14,Account Access,Medium,Mike,6
+1022,2025-06-01,23,2025-06-02,Software,High,Anna,47
+1023,2025-06-26,26,2025-06-26,AV Equipment,Low,Anna,19
+1024,2025-06-27,26,2025-06-28,Network,Low,Steve,45
+1025,2025-07-12,28,2025-07-12,Hardware,Medium,Mike,11
+1026,2025-06-11,24,2025-06-12,Software,High,Anna,34
+1027,2025-07-05,27,2025-07-05,Network,Medium,Mike,22
+1028,2025-06-05,23,2025-06-05,Account Access,Low,Anna,8
+1029,2025-07-21,30,2025-07-21,AV Equipment,Low,Anna,12
+1030,2025-06-12,24,2025-06-14,Hardware,Low,Steve,48
+1031,2025-07-18,29,2025-07-19,Hardware,High,Steve,45
+1032,2025-07-13,29,2025-07-14,Software,Low,Mike,47
+1033,2025-07-15,29,2025-07-15,Network,High,Steve,19
+1034,2025-06-03,23,2025-06-03,Account Access,Medium,Sarah,5
+1035,2025-06-04,23,2025-06-05,Account Access,Medium,Anna,37
+1036,2025-06-03,23,2025-06-04,Account Access,High,Anna,37
+1037,2025-07-24,30,2025-07-24,Account Access,Low,Steve,12
+1038,2025-06-23,26,2025-06-24,Software,Low,Sarah,33
+1039,2025-07-06,28,2025-07-06,Software,High,Sarah,3
+1040,2025-06-22,26,2025-06-23,AV Equipment,Medium,Anna,33
+1041,2025-06-15,25,2025-06-16,AV Equipment,High,Mike,46
+1042,2025-06-16,25,2025-06-17,Network,High,Sarah,45
+1043,2025-06-19,25,2025-06-19,Software,Low,Steve,4
+1044,2025-07-27,31,2025-07-27,Hardware,High,Steve,2
+1045,2025-06-09,24,2025-06-09,Software,High,Anna,6
+1046,2025-07-22,30,2025-07-22,Software,High,Steve,11
+1047,2025-07-25,30,2025-07-26,AV Equipment,High,Sarah,36
+1048,2025-07-25,30,2025-07-26,Account Access,High,Sarah,26
+1049,2025-07-08,28,2025-07-09,AV Equipment,Medium,Mike,42
+1050,2025-06-01,23,2025-06-01,Software,Medium,Mike,18
+1051,2025-07-23,30,2025-07-24,Hardware,High,Mike,39
+1052,2025-06-27,26,2025-06-28,Hardware,High,Mike,30
+1053,2025-07-19,29,2025-07-20,Account Access,Low,Anna,44
+1054,2025-07-23,30,2025-07-23,Network,Low,Mike,7
+1055,2025-06-01,23,2025-06-02,Software,Low,Mike,31
+1056,2025-06-06,23,2025-06-07,Network,High,Mike,36
+1057,2025-07-08,28,2025-07-08,Software,Medium,Steve,7
+1058,2025-07-09,28,2025-07-09,Hardware,High,Mike,13
+1059,2025-07-06,28,2025-07-06,Network,High,Sarah,22
+1060,2025-07-27,31,2025-07-28,Account Access,Low,Steve,37
+1061,2025-06-21,25,2025-06-21,Software,Medium,Anna,7
+1062,2025-07-20,30,2025-07-21,Software,High,Mike,24
+1063,2025-07-10,28,2025-07-11,Software,Low,Mike,45
+1064,2025-06-16,25,2025-06-16,Network,High,Steve,18
+1065,2025-06-11,24,2025-06-11,Software,High,Mike,16
+1066,2025-06-25,26,2025-06-26,Account Access,Medium,Anna,43
+1067,2025-07-28,31,2025-07-29,Account Access,Medium,Sarah,35
+1068,2025-06-08,24,2025-06-10,Software,Medium,Mike,48
+1069,2025-06-02,23,2025-06-03,Software,Medium,Mike,36
+1070,2025-07-02,27,2025-07-03,Account Access,Low,Mike,40
+1071,2025-07-29,31,2025-07-29,AV Equipment,High,Steve,11
+1072,2025-06-19,25,2025-06-20,Network,High,Anna,33
+1073,2025-06-02,23,2025-06-03,AV Equipment,Medium,Mike,31
+1074,2025-07-25,30,2025-07-26,Software,Low,Sarah,47
+1075,2025-06-22,26,2025-06-23,Hardware,Medium,Sarah,27
+1076,2025-07-21,30,2025-07-22,Account Access,Medium,Anna,33
+1077,2025-06-01,23,2025-06-02,Network,Medium,Mike,24
+1078,2025-07-18,29,2025-07-19,Account Access,Low,Sarah,34
+1079,2025-06-08,24,2025-06-09,Account Access,Low,Anna,32
+1080,2025-06-23,26,2025-06-23,Hardware,High,Sarah,9
+1081,2025-06-10,24,2025-06-11,Software,High,Sarah,42
+1082,2025-07-25,30,2025-07-25,Hardware,Low,Anna,14
+1083,2025-06-21,25,2025-06-22,Network,Low,Steve,25
+1084,2025-07-10,28,2025-07-10,Hardware,Low,Steve,14
+1085,2025-07-05,27,2025-07-06,Hardware,Medium,Sarah,28
+1086,2025-07-16,29,2025-07-16,Hardware,Medium,Anna,8
+1087,2025-06-29,27,2025-06-30,AV Equipment,Low,Sarah,38
+1088,2025-06-06,23,2025-06-07,Account Access,High,Mike,39
+1089,2025-06-22,26,2025-06-22,AV Equipment,Low,Steve,6
+1090,2025-06-25,26,2025-06-25,Account Access,Low,Steve,20
+1091,2025-07-13,29,2025-07-13,Software,High,Steve,3
+1092,2025-06-16,25,2025-06-17,Software,Low,Anna,40
+1093,2025-07-23,30,2025-07-24,Hardware,Medium,Mike,47
+1094,2025-07-20,30,2025-07-20,Network,Low,Mike,9
+1095,2025-06-23,26,2025-06-23,Software,Low,Sarah,5
+1096,2025-07-26,30,2025-07-26,Hardware,Medium,Mike,19
+1097,2025-06-05,23,2025-06-06,Network,Low,Anna,38
+1098,2025-07-17,29,2025-07-18,AV Equipment,Medium,Mike,41
+1099,2025-06-03,23,2025-06-04,Hardware,Medium,Sarah,31
+1100,2025-07-10,28,2025-07-10,AV Equipment,Low,Anna,14
