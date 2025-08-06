@@ -35,6 +35,7 @@ Includes slicers for filtering by category, priority, and technician.
 ## 📁 Files Included
 - [incident_tickets_sample.csv](incident_tickets_sample.csv) – Data source
 - [incident_dashboard.png](Dashboard.png) – Final dashboard screenshot
+- [dashboard_walkthrough.mp4](dashboard_walkthrough.mov) – Dashboard walkthrough video 
 
 ---
 
