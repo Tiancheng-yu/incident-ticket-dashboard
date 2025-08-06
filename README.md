@@ -33,8 +33,8 @@ Includes slicers for filtering by category, priority, and technician.
 ---
 
 ## 📁 Files Included
-- `incident_tickets_sample.csv` – Data source
-- `incident_dashboard.png` – Final dashboard screenshot
+- [incident_tickets_sample.csv](incident_tickets_sample.csv) – Data source
+- [incident_dashboard.png](Dashboard.png) – Final dashboard screenshot
 
 ---
 
